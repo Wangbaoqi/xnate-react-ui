@@ -18,7 +18,7 @@
   ],
   "scripts": {
     "dev": "xnate-cli dev:ui",
-    "build": "xnate-cli build",
+    "build": "xnate-cli build:ui",
     "preview": "xnate-cli preview",
     "compile": "xnate-cli compile",
     "lint": "xnate-cli lint",
